@@ -36,9 +36,10 @@ public class RedisPlaygroundPocApplication {
 
 }
 ```
-See: [Time To Live](https://docs.spring.io/spring-data/redis/reference/redis/redis-repositories/expirations.html)
-See: [Spring Data Redis — Simple, yet Challenging](https://europace.de/spring-data-redis-simple-yet-challenging/)
-See: [How to configure Redis TTL with Spring Data Redis](https://www.baeldung.com/spring-data-redis-ttl#redis-key-expiration-event)
+
+* See: [Time To Live](https://docs.spring.io/spring-data/redis/reference/redis/redis-repositories/expirations.html)
+* See: [Spring Data Redis — Simple, yet Challenging](https://europace.de/spring-data-redis-simple-yet-challenging/)
+* See: [How to configure Redis TTL with Spring Data Redis](https://www.baeldung.com/spring-data-redis-ttl#redis-key-expiration-event)
 
 ## Profile `notifications`
 
